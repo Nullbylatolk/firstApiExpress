@@ -98,3 +98,4 @@ app.listen(port, () => {
 //   res.send('Got a DELELTE request at /user')
 // });
 
+module.exports = app;
